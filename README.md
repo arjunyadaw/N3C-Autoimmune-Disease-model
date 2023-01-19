@@ -27,7 +27,7 @@ patsy version  0.5.3\
 matplotlib version 2.2.4\
 Seaborn version 0.11.2\
 PySpark version 3.2.1-palantir.35\
-SQL & tableone
+tableone
 
 ## Running our model:
 
