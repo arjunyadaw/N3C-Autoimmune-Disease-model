@@ -20,14 +20,16 @@ The SQL code in this repository is written in the Spark SQL. The Python code in 
 ## Python Libraries Used:
 The following Python version and packages are required to execute this in palantir foundary:
 
-numpy version  1.19.5\
-pandas version 0.25.3\
-statsmodel version 0.12.2\
-patsy version  0.5.3\
-matplotlib version 2.2.4\
-Seaborn version 0.11.2\
-PySpark version 3.2.1-palantir.35\
-tableone
+Python 3.6.7\
+numpy   1.19.5\
+pandas  0.25.3\
+statsmodel 0.12.2\
+patsy  0.5.3\
+matplotlib 2.2.4\
+Seaborn 0.11.2\
+Spark SQL 3.2.1-palantir.35\
+tableone 0.7.12
+
 
 ## Running our model:
 
