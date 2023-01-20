@@ -34,5 +34,5 @@ tableone 0.7.12
 
 ## Running our model:
 
-To produce the results, One has to creat cohorts of (autoimmune disease patients, cohort of immunosuppressants user, cohort of COVID-19 positive patients, cohort of antiviral treatment & cohort of preexisting comorbidities) then run AID_model by using these input tables.
+To produce the results, One has to create cohorts of (autoimmune disease patients, cohort of immunosuppressants user, cohort of COVID-19 positive patients, cohort of antiviral treatment & cohort of preexisting comorbidities) then run AID_model by using these input tables.
 
