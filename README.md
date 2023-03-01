@@ -1,7 +1,7 @@
 # Autoimmune Disease Project
 ## Introduction:
 This repository contains reproducible code for our paper “Pre-existing autoimmunity associates with increased severity of COVID-19 patients: A retrospective cohort   study using data from the National COVID Cohort Collaborative (N3C) data”, which usage the data from the National COVID Cohort Collaborative’s (N3C) EHR repository to identify potential autoimmune disease patients prior to COVID-19 diagnosis and patients with long-term usage of immunosuppressants prior to COVID-19 diagnosis. Please cite following paper if you use the code:\
-"******XYZ"
+https://doi.org/10.1101/2023.02.02.23285353
 ***
 ## Purpose of this code: 
 This code is designed to identified patients with pre-existing autoimmune diseases and/or patients with long-term usage of immunosuppressants prior to COVID-19 diagnosis. We also created a cohort of patients with selected antiviral (Paxlovid (Nirmatrelvir/ritonavir), LAGEVRIO (molnupiravir)) or one monoclonal antibody (bebtelovimab) treatment. For details description, you can see above mentioned paper. 
